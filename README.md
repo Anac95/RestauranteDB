@@ -117,5 +117,3 @@ Se você deseja contribuir para o projeto, faça um fork deste repositório, fa�
 
 Licença
 Este projeto é de uso livre, sem garantia de qualquer tipo.
-
-Esse é um exemplo de um `README.md` básico. Ele explica o que o projeto faz, fornece um resumo das tabelas e comandos principais, e oferece instruções sobre como usá-lo. Adapte-o conforme necessário, de acordo com seus requisitos ou preferências.
